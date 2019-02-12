@@ -1,4 +1,4 @@
-# Quantitative-Finance-and-Data-Scinece
+# Quantitative-Finance-and-Data-Science
 Equity Performance Analysis and Prediction of stock value using various machine learning models.
 A Data Science project using Python in order to predict whether an equity in the IT sector has a positive growth or a negative growth.
 This project came into existence in order to gauge prevailing technical trading strategies on a large amount of historical data to determine the best performer. Performance is to be judged on the magnitude of return and consistency. The results can be used to build a statistically trained model that optimizes the chosen strategy's parameters for a selected trading period. The trading period can be defined as the time from entry (purchase of underlying security) to exit (sale of underlying security).
